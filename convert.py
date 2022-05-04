@@ -1,4 +1,4 @@
-import os, sys, ipaddress, csv, socket, struct, re, binascii, time, json
+import os, sys, ipaddress, csv, socket, struct, re, binascii, time, json, random
 
 # Custom functions start at here
 def no2ip(iplong):
